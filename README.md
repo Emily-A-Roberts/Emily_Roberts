@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emily "Molly" Roberts - @mollymollusca
 - 👀 I’m a postdoc working in marine ecology
-- 🌱 I’m currently learning about sandy beach infaunal environments
+- 🌱 I’m currently learning about sandy beach infaunal environments and the bivalves that live in them
 - 💞️ I’m looking to collaborate on confronting energetics/growth models with data and statistical methods
 - 📫 How to reach me: molly.a.roberts@gmail.com, 
 - 💻 Website: emilyaroberts.blog
